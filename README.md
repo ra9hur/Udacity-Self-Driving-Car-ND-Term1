@@ -24,13 +24,13 @@ To train Deep Neural Network to learn, how to drive a car using simulator data. 
 
 **4. Advanced Lane Finding**
 
-![p4](https://cloud.githubusercontent.com/assets/17127066/24323529/e9bce898-119c-11e7-99e7-71f1c56541fc.png)
+![p4](https://cloud.githubusercontent.com/assets/17127066/24323959/ba982440-11a3-11e7-8276-32a55b29f76e.png)
 
 This project deals with finding lanes in complex scenarios like curving lines, shadows and changes in the color of the pavement. Here is the link for the completed project - [SDC-P4-Advanced-Lane-Finding][4]
 
 **5. Vehicle Detection And Tracking**
 
-![p5](https://cloud.githubusercontent.com/assets/17127066/24323533/e9d818e8-119c-11e7-91f1-877a0eedbe7d.png)
+![p5](https://cloud.githubusercontent.com/assets/17127066/24323958/ba93f564-11a3-11e7-94ee-24ba82dea804.png)
 
 To detect vehicles in an image and track them from frame to frame in a video stream. Here is the link for the completed project - [SDC-P5-Vehicle-Detection-And-Tracking][5]
 
