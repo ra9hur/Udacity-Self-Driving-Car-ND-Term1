@@ -1,5 +1,6 @@
 # Udacity-Self-Driving-Car-ND-Term1
-This term cover topics related to Computer Vision and Deep Learning. It includes the 5 projects from the Udacity SDC-ND Term 1 curriculum. This helps to demonstrate the ability to apply Computer Vision / Deep Learning skills to solve a variety of Autonomous Driving related problems.
+The focus of Term 1 is applying machine learning to automotive tasks: deep learning, convolutional neural networks, support vector machines, and computer vision. It includes 5 projects from the Udacity SDC-ND Term 1 curriculum. 
+
 GitHub repository links to Term 1 projects are as given below.
 
 ## Projects
